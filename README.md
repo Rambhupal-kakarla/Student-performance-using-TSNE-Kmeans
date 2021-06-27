@@ -1,2 +1,6 @@
 # Student-performance-using-TSNE-Kmeans
-Student performance using TSNE-KMeans
+# Importing Libraries
+# importing data
+# Data preprocessing
+# Data Visualization
+# Clustering(TSNE, KMeans)
